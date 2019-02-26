@@ -63,7 +63,7 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 
 ### Python
 
-- [justinmayer/**virtualfish**](https://github.com/justinmayer/virtualfish) - A Fish Shell wrapper for Ian Bicking's virtualenv
+- [adambrenecki/**virtualfish**](https://github.com/adambrenecki/virtualfish) - A Fish Shell wrapper for Ian Bicking's virtualenv
 
 ### Testing
 
